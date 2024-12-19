@@ -1,2 +1,4 @@
 Name: JOB
 Tel: 0933492899
+Address: Bangkok
+Birthday: 01/09/2000
